@@ -10,6 +10,10 @@ class Main{
         // numberの上書き / データ型を書かない 
         number = 2;
         System.out.println(number+3);
+
+        String name;
+        name = "Nya";
+        System.out.println("名前は"+name+"です");
     }
 }
 
