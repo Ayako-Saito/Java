@@ -12,7 +12,7 @@ class Main{
         System.out.println(number+3);
 
         String name;
-        name = "Nya";
+        name = "Nyan";
         System.out.println("名前は"+name+"です");
     }
 }
